@@ -5,7 +5,7 @@ This repository provides a PyTorch implementation of PPLAD ([paper](https://ieee
 <img src="https://github.com/infogroup502/FADFD/blob/main/img/workflow.pdf" width="850px">
 
 ## Main Result
-<img src="https://github.com/infogroup502/FADFD/main/img/result.png" width="850px">
+<img src="https://github.com/infogroup502/FADFD/blob/main/img/result.png" width="850px">
 
 ## Requirements
 The recommended requirements for FADFD are specified as follows:
